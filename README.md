@@ -1,0 +1,2 @@
+# masscalculator
+program calculates mass 
